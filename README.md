@@ -3,8 +3,11 @@
 ## Identificação
 
 **Aluno:** Victor Rocha da Silva
-**Disciplina:** Linguagem C
+
+**Disciplina:** Algoritmos e pensamento computacional
+
 **Professora:** Profa. Karla Sartin
+
 **Projeto:** Sistema de Monitoramento Industrial
 
 ## Objetivo
